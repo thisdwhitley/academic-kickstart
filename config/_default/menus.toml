@@ -28,6 +28,24 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "Archives"
+  identifier = "archives"
+  url = "#"
+  weight = 90
+
+[[main]]
+  name = "dantarctica"
+  parent = "archives"
+  url = "#"
+  weight = 91
+
+[[main]]
+  name = "ilearnedthisthehardway"
+  parent = "archives"
+  url = "#"
+  weight = 92
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
