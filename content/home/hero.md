@@ -2,10 +2,10 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "thisdwhitley"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -48,10 +48,10 @@ hero_media = "hero-academic.png"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">view previous attempts in **Archives**<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**my umpteenth attempt at capturing notes online**
 
 Build **Anything** with Widgets
 

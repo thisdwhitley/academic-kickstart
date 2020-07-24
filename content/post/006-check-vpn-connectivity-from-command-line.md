@@ -95,5 +95,3 @@ for I in $(docker ps --format '{{.Names}}'); do \
   printf "%-15s%s\n" "$I:" "$location"; \
 done
 ~~~
-
-[[return to top of page]](#heading-breadcrumbs)

@@ -202,7 +202,3 @@ root@DietPi:~# swapon
 NAME      TYPE  SIZE USED PRIO
 /var/swap file 1024M   0B   -2                # <--- 1024M now
 ~~~
-
----
-
-[[return to top of page]](#)
