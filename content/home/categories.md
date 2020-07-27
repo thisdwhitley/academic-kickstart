@@ -27,28 +27,17 @@ subtitle = ""
   description = "love-hate relationship"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "home"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "<a href='category/house'>house</a>"
+  description = "was old, now new"
 
 [[feature]]
   icon = "tree"
   icon_pack = "fas"
-  name = "<a href='category/yard'>yard</a>"
-  description = "boy do I hate this one"
-  
-[[feature]]
-  icon = "microchip"
-  icon_pack = "fas"
-  name = "<a href='category/tech'>tech</a>"
-  description = "love-hate relationship"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "<a href='category/truck'>truck</a>"
+  description = "prior obsession"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
