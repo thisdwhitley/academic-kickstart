@@ -1,0 +1,46 @@
+---
+title: 'snocross'
+subtitle: "(converted post)"
+type: post
+date: 2010-01-23T20:44:00.002+13:00
+tags: ["converted","archive","dantarctica"]
+categories: ["dantarctica"]
+showDisclosure: false
+showConverted: true
+draft: false
+---
+
+Phew!  Yesterday was a doozy of a day.  I got up at 3am for a few phone calls to the US and then spent the majority of the day on the ice pier.  As line handlers we have to be ready for whenever the boats come in.  The boat was scheduled to arrive at 9:30am so we mustered at 8:00am to head to the pier.  We were literally there all day.  I stayed until 3:00pm and had to leave before we were done (I hated to leave them hanging, but I had a prior engagement that I had to get ready for).  Apparently the rest of the handlers stayed until 4:00pm and returned after dinner for another 2 hours.  Obviously things did not go smoothly.  It was a nightmare.  The day consisted of standing around for hours and hours, only to be broken up by a few minutes of frantic work hauling, pulling, pushing, pounding, etc.  Luckily it was a sunny, nice day to be outside.  \[side note:  Being there all day did allow us to see close up a curious seal in the water.  He was just checking things out and as lazy and sluggish as those things are on top of the ice, he was oppositely graceful in the water.\]  
+  
+I don't know what the problem was or how it got to be such a headache, but I can tell you what I observed.  To begin with, what was clear water the day before had become all pack ice where the wind had blown it into where the ships needed to go.  The ice breaker came in directly before the tanker to try to break up all the ice again and get it away from the pier.  The problem was, and I don't know if it was due to wind or what, but as soon as the Oden left, the ice returned before the tanker could get in.  In the past, I have heard, the tanker has angled in with its bow (front) to brush the remaining ice away from the pier but they were reluctant to do that this year since the pier is so old and since parts of it had already unattached.  It doesn't matter the reason, but the bottom line was that the tanker stopped pretty far away from the pier and there was a lot of ice in between the two.  
+  
+Everyone had their own ideas of how to get the ship over to the pier and everyone voiced their thoughts.  Most of them were attempted.  (It took all day.)  The first thought was to try to use the lines from the boat to pull the bow of the boat over to the pier and hope the ice would be forced out by the stern.  We secured the ship with 5 lines and then they used the motorized winches onboard the boat to try to pull the boat over.  That put an incredible amount of stress on the lines.  These lines were about 3-4 inches in diameter and they were ridiculously heavy and having been drenched in freezing cold water did not make them any lighter.  As the were being pulled taught, it was basically wringing them out and there was a constant drip from them, I couldn't beleive all the water that came out of them.  Well even those enormous ropes have a breaking point and when neither the ice nor the boat were budging, we met that breaking point up close and personal.  It was a violent "CRACK" and an explosion of water and then that heavy, heavy line piled up around the bollard in about 0 seconds flat.  Then the next bow line went quickly after.  It was pretty crazy and very dangerous to see those lines "part", that's what it's called.  Luckily we had been warned about something like that happening and every was far away.  It was crazy to see those lines that we struggled so hard to move even a little bit move so quickly on their own.  Here is a picture of the lines after unpiling them from the bollard:  
+
+[![](http://lh5.ggpht.com/_WucH0HQjOPM/S1pPCJE-kkI/AAAAAAAABP8/WZmy2-DhRlY/s320/PICT2048.jpg)](http://lh5.ggpht.com/_WucH0HQjOPM/S1pPCJE-kkI/AAAAAAAABP8/WZmy2-DhRlY/s1600/PICT2048.jpg)  
+
+  
+That little bit of excitement only broke the monotony temporarily.  They tried numerous other ideas, including:  
+
+*   trying to use a grappling hook to pull the ice to the back of the boat to create space between the pier and the ship
+*   using a front loader/bulldozer on the dock to reach into the water and usher the small iceburgs out of between the two
+*   having the Oden come back in to try to stir up the water and force the ice out
+*   running the tanker's propellers to create a current towards the back of the ship
+*   etc.  
+
+Each of these attempts took hours.  Eventually, and I have to base this on what I've heard, enough ice was removed from the combination of these attempts to bring the ship close enough to put the gang plank down.  I know the wind changed and I, personally, think that the wind and the wind alone was responsible for getting the ice out of the way...but the fuel tanker is here and pumping a ridiculous amount of fuel into our tanks 24 hours a day for the next couple days.  Apparently there is no smoking on this fuel tanker, probably a smart policy:  
+
+[![](http://lh5.ggpht.com/_WucH0HQjOPM/S1pO9q6QpcI/AAAAAAAABPw/Sk6TC0y501U/s320/PICT2046.jpg)](http://lh5.ggpht.com/_WucH0HQjOPM/S1pO9q6QpcI/AAAAAAAABPw/Sk6TC0y501U/s1600/PICT2046.jpg)  
+
+  
+So I had to bail early on my commitment as a volunteer line handler because I was supposed to go on a "morale trip".  I have my priorities straight.  The morale trip was to a point about 1,400 feet up Mt. Erebus and we got to drive snowmobiles!  The trip was absolutely awesome and for a lot of different reasons.  The views we were absolutely phenomenal.  It has gotten to the point where it is just incredibly frustrating to me that I cannot use words to describe what I see and the pictures do not come close to doing it justice (you may have noticed less and less pictures).  You simply can not believe how awesome this place is without seeing it.  There is no way you can know.  I hate that and find it very frustrating.  But I digress...the wind that was blowing the ice out at the dock was blowing in a huge cover of clouds right where we were headed.  I think it would have been cooler to see everything in the sunlight, but it was neat riding towards an enormous volcano with the ominously dark clouds coming in.  It made it pretty cold though and I thought I might lose the tips of my fingers to frostbite, but they all survived.  We were headed to a site called "Room With A View".  Once we arrived, it was just a tent up in the middle of no where that we didn't even bother getting in.  We all just got off our snowmobiles and were in awe.  We could look right down the Erebus Ice Tongue out onto the Sea Ice and could see the ice edge and a lot of water.  We could see the continent across the water and numerous openings where glaciers poured miles and miles of ice and snow out of the mountains.  We could see the slick but simultaneously ragged blue cliffs of ice up the face Mt. Erebus.  We could see Mt. Terror and Mt. Terra Nova across the Windless Bight.  We could see for miles across the flat, white Ross Ice Shelf.  Completely mind blowing.  The sun was sort of behind the clouds and so parts of the sky towards the continent were pink and purple and behind us the sky was every shade of blue, from light and bright to deep and dark all sharply contrasted by the vast whiteness of the Ross Ice Shelf.  Awesome.  
+
+[![](http://lh5.ggpht.com/_WucH0HQjOPM/S1pPUNV6gVI/AAAAAAAABQ4/DY73mnMlXH0/s320/PICT2064.jpg)](http://lh5.ggpht.com/_WucH0HQjOPM/S1pPUNV6gVI/AAAAAAAABQ4/DY73mnMlXH0/s1600/PICT2064.jpg)  
+
+\[please excuse the spots inserted by my camera...\]  
+
+ [![](http://lh6.ggpht.com/_WucH0HQjOPM/S1pPXCYzwWI/AAAAAAAABRE/tY4k3-8hbkE/s320/PICT2067.jpg)](http://lh6.ggpht.com/_WucH0HQjOPM/S1pPXCYzwWI/AAAAAAAABRE/tY4k3-8hbkE/s1600/PICT2067.jpg)  
+
+  
+I have obviously failed at the impossible task of trying to describe in words or capture in pictures the beauty of the views during the ride.  But hopefully I can get across how awesome riding a snowmobile was...I have never ridden a snowmobile, much less driven one.  So, for those of you that have never driven a snowmobile 30-40 mph towards an active volcano in Antarctica, take my word for it; it is AWESOME!!!  It was bumpier/rougher than I expected and it took me a little while to relax and get the hang of it, but relaxing was the key.  It was like riding a wave runner in that every second it felt like it could, and was trying to, buck you off to your certain demise, but if you just let loose the handlebars and go where it wanted to go, no problem.  Once I had this epiphany it was hard for me to not lean too hard on the throttle and I was constantly riding up on the guy ahead of me.  It was a lot of fun.  Another highlight of the trip was that it was considered "free pee" which meant you didn't have to pee in a bottle or near a flag and there were certainly no bathrooms...  
+
+[![](http://lh4.ggpht.com/_WucH0HQjOPM/S1pPHFS1XTI/AAAAAAAABQM/CKKpjnxGwVk/s320/PICT2052.jpg)](http://lh4.ggpht.com/_WucH0HQjOPM/S1pPHFS1XTI/AAAAAAAABQM/CKKpjnxGwVk/s1600/PICT2052.jpg)

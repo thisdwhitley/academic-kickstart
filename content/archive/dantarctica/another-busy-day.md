@@ -1,0 +1,17 @@
+---
+title: 'another busy day'
+subtitle: "(converted post)"
+type: post
+date: 2009-11-27T22:55:00.000+13:00
+tags: ["converted","archive","dantarctica"]
+categories: ["dantarctica"]
+showDisclosure: false
+showConverted: true
+draft: false
+---
+
+So, today was Thanksgiving for you in the US.  Happy Thanksgiving.  My day was a work day and pretty busy.  The last two days I have volunteered to help dig out under, and subsequently cover up a 2 inch pipe filled with our fiber optic cables that go up to "T-Site".  I really lucked out because the day before I volunteered they used pick axes and really worked hard.  I had the help of a hammer drill the first day, and a bucket loader/bulldozer the second day.  I got to see some awesome views because we were pretty high up and I took some cool pictures, but I was out of the office and pretty busy.  The guy I'm working closely with is going to WAIS (Western Antarctic Ice Shelf) on Monday and so every minute I wasn't up on the hill, I was helping him get ready because communication is very limited there.  They have done some REALLY cool stuff and I was trying to learn about it so I could help him out if needed.  (Since he is leaving Monday, we are going to meet up tomorrow, my Thanksgiving, to iron out the final details...)  Right after work I was shuttled off to the Ice Caves.  They were pretty awesome and I sat in the front of the "Delta" driving out there.  You wouldn't believe the scenery I saw.  Absolutely beyond belief.  The Ice Caves turned out to be about a 45 minute ride on the annual ice and about 5 minutes in the Caves and about 25 minutes of waiting and another 45 minute ride back.  Still pretty cool.  I took some pictures but I don't know how the turned out.  I will upload them sometime...  So, overall, a pretty busy day.  I'm exhausted, but doing laundry now (it's 10:30) and there's still some laundry backed up!  
+  
+So, about Scott Base.  Like I mentioned, it is the New Zealand base that is right around the hill from where I am.  Thursday is "American Night" so they extend their store hours and bar hours for the Americans to come over.  \[side note:  if anyone wants anything from Scott Base let me know.  They have a bunch of touristy stuff, t-shirts, hats, sweatshirts, etc.\]  The whole reason I went over there is because I guy I met in Denver on the way out here, and one of the few friends I have so far, saw me at dinner and I was busy last week so we decided to go last minute this week.  Uncharacteristic of me, but I'm bending all sorts of barriers so far.  We caught a shuttle and checked out the gift shop.  The bar opened up as we were about to leave so we decided to check it out (this is his 3rd time here so he pretty much just wanted to show me).  To sum it up, and I'm not making excuses, beer is cheap there.  Ever since Denver and throughout NZ he had bought me beers so I decided to pay him back.  I paid for all of our beers (total of 10) and it was less than $20 kiwi, which, depending on the exchange rate, is less than $16 American dollars!  As a comparison, I went to both bars on McMurdo tonight (which was tough to do by myself so I didn't stay long), bought 2 beers total and spent $10.  I should mention that the bars here expect a tip and they don't at Scott so that made a difference, but still quite a difference.  
+  
+I'm beat.  Just checked, only one person ahead of me for the dryer...
