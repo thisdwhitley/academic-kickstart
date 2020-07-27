@@ -1,43 +1,50 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
-# [[main]]
-#   name = "Home"
-#   url = "#about"
-#   weight = 10
+#   The weight parameter defines the order that the links will appear in
 
 [[main]]
   name = "About"
   identifier = "about"
-  url = "#"
+  url = "about/"
   weight = 10
 
 [[main]]
   name = "Personal"
   identifier = "personal"
   parent = "about"
-  url = "#"
+  url = "about/"
   weight = 11
-
-[[main]]
-  name = "experience"
-  parent = "personal"
-  url = "#"
-  weight = 12
 
 [[main]]
   name = "Website"
   identifier = "website"
   parent = "about"
-  url = "#"
+  url = "about/#disclosure"
   weight = 15
+
+[[main]]
+  name = "Archives"
+  identifier = "archives"
+  url = "archive/"
+  weight = 20
+
+[[main]]
+  name = "dantarctica"
+  parent = "archives"
+  url = "archive/#dantarctica/"
+  weight = 21
+
+[[main]]
+  name = "ilearnedthisthehardway"
+  parent = "archives"
+  url = "archive/#ilearnedthisthehardway"
+  weight = 22
 
 [[main]]
   name = "Blog"
   url = "post"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Categories"
@@ -49,28 +56,8 @@
   url = "#tags"
   weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
 
-[[main]]
-  name = "Archives"
-  identifier = "archives"
-  url = "#"
-  weight = 90
 
-[[main]]
-  name = "dantarctica"
-  parent = "archives"
-  url = "archive/dantarctica/"
-  weight = 91
-
-[[main]]
-  name = "ilearnedthisthehardway"
-  parent = "archives"
-  url = "#"
-  weight = 92
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
