@@ -6,7 +6,7 @@ type: "post"
 tags: ["technology","home","network"]
 categories: ["tech"]
 showDisclosure: true
-draft: true
+draft: false
 ---
 
 I have not done much with my home network and it is starting to flake out, so
