@@ -54,7 +54,7 @@ Having a more powerful wifi router will allow me to make some updates.  Some
 things I'd like to accomplish (hopefully in upcoming posts):
 
 * re-ip the entire network (10.8.26.0/24 is cute, but to avoid work IPs I will
-  use 132.71.0.0/16)
+  use 172.31.0.0/16)
 * create different VLANs for infrastructure vs. IoT devices
 * separate my DHCP and DNS services
 * make it so that if my pi-hole goes down, it doesn't take **everything** down
