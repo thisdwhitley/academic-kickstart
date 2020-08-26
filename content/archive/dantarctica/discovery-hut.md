@@ -20,4 +20,6 @@ The strategic placement of some of the relics stole nothing from the fact that r
   
 I took a bunch of pictures, but, since I didn't get a real good explanation of what everything was I'll leave it to your keen eyes and imagination to caption these.  They are [HERE](https://photos.app.goo.gl/2vMLLpRzpLXBa7mh8).  And if you don't have time to look through those minuscule nondescript pictures, here is one from the hut looking back at McMurdo.  I think this is how everyone there mistakenly imagines Antarctica all the time, but here it is:  
 
-[![](https://photos.app.goo.gl/CutjejG8cJCbrAzV6)](https://photos.app.goo.gl/CutjejG8cJCbrAzV6)
+<!-- [![image](https://lh3.googleusercontent.com/4V4wPIhI_1f3xlcFSvgb5JCAn9tZbDZJlrBM1ZSOAwzbPE8FaXPp-phfL6rrT9y6LoCI-i0YvETVziUh_3t5E3FfXN83kpC0k8exz6JHX7Vo-fWZF9ByAe3wzHMR-f7WOkGAWvIM=w2400)](https://photos.google.com/share/AF1QipPL0tqhz7aCtTjs2_bhykE6islcEmhdfwWASvBz7-0PnR5lXD6ryLRCQ3Pew6HxtQ/photo/AF1QipNJZzf9hKXsIsOxfkYKvuTlTsmrqwKTMh8jj4w?key=YXVmcXp5d0RZUGsyUk56R0JQLTcxVG9xbnY2MF9B) -->
+
+{{< figure src="https://lh3.googleusercontent.com/4V4wPIhI_1f3xlcFSvgb5JCAn9tZbDZJlrBM1ZSOAwzbPE8FaXPp-phfL6rrT9y6LoCI-i0YvETVziUh_3t5E3FfXN83kpC0k8exz6JHX7Vo-fWZF9ByAe3wzHMR-f7WOkGAWvIM=w2400" title="McMurdo from Discovery Hut" >}}
