@@ -10,21 +10,11 @@ showConverted: true
 draft: false
 ---
 
-[![](http://lh4.ggpht.com/_WucH0HQjOPM/SwY30pVb34I/AAAAAAAAAKs/-DvGMdW2mj0/s320/PICT1397.jpg)](http://lh4.ggpht.com/_WucH0HQjOPM/SwY30pVb34I/AAAAAAAAAKs/-DvGMdW2mj0/s1600/PICT1397.jpg)  
+{{< figure src="https://lh3.googleusercontent.com/255Rfjmzm6oZ79-1XfkV5f79SanGjXUqXn8O2-F6Ca2zk_LTIvGXx6OS_Z1o5OlIvk9-P-Ahb3BhjxZnzhSLwrr6l1y2SEJkEC4CMQYTaWidZ3ENlP434N0btm9UVEEUvPlK8y29=w2400" title="Run of the mill utility truck (with \"mattracks\" instead of wheels)" >}}
 
-^ Run of the mill utility truck (with "mattracks" instead of wheels). ^  
 
-  
+{{< figure src="https://lh3.googleusercontent.com/54dm0rNqgyuVuV4zOcbPzetQdLUJ8kW0O4lThE4dUT5eL-pJyrn15OYPtlr8qp397XFuU4CT8leQFjqKPlawWJ5Z6MC0nz-EX4I7fGxamOOvwJZEXnyIXMIq61_kg4Ey_DKm9PXA=w2400" title="And this is what moms drive their kids to soccer practice in.  Those are 40\" tires and a ridiculous lift!" >}}
 
-  
-
-[![](http://lh3.ggpht.com/_WucH0HQjOPM/SwY30uH-C0I/AAAAAAAAAKw/I98RBsq8iAg/s320/PICT1411.jpg)](http://lh3.ggpht.com/_WucH0HQjOPM/SwY30uH-C0I/AAAAAAAAAKw/I98RBsq8iAg/s1600/PICT1411.jpg)  
-
-  
-
-  
-^ And this is what moms drive their kids to soccer practice in.  Those are 40" tires and a ridiculous lift! ^  
-  
 
 I saw a bird today and realized how seldomly I've seen living things other than human beings.  The other creatures I've seen are an enormous seal slinky-ing along the ice from a long way off.  And I stumbled into the scientist laboratory where they have the aquariums and saw some odd clam-like creatures, some starfish looking things, and weird spider type crustaceans that live WAY under the ice in near freezing water.  Besides that, there are NO naturally occurring bugs, rodents, dogs, pets, plants, anything.  It is kind of weird.  
 
