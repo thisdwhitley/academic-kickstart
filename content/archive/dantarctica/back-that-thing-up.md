@@ -18,9 +18,11 @@ So a little information about the ice pier/dock.  (I just saw that Wikipedia ha
   
 A few more notes on the ice breaker.  It looked pretty small when it was on the horizon and even when it was making the turning basin but it looked HUGE when it got closer.  And it is the smallest ship coming in here.  I don't know why I thought this, but I had pictured a blue trail and open water where it had come from.  That's not the case at all.  It really only breaks the ice and it just looks chunky where it's been instead of flat white.  I have been told that it takes a storm or strong wind to blow the broken ice out.  And if that happens then there's a good chance we'll see a lot of wildlife from the water, potentially even whales.  I'm going to keep my fingers crossed for that.  Here's a picture of the Oden from the ice pier:  
 
-[![](http://lh6.ggpht.com/_WucH0HQjOPM/S0vm9A8-3bI/AAAAAAAABH8/pOR9F0AWjrc/s320/PICT1944.jpg)](http://lh6.ggpht.com/_WucH0HQjOPM/S0vm9A8-3bI/AAAAAAAABH8/pOR9F0AWjrc/s1600/PICT1944.jpg)  
+
+{{< figure src="https://lh3.googleusercontent.com/nyJHGxVEQGedhS2mlz23HCwJ9k0YwlKC25CqDQhyeossvD029f8AtcFJbS7KvB7fVLu71U6fHyuaQe1hb_ytB38QEegHvprlFAnHWulVvn3wERJm0Uy285EC0lgXNg24dmDGq-Vo=w2400" title="Oden from the ice pier" >}}
 
   
 After my brief stint as a line handler, my supervisor was asked by the telecommunications supervisor if we'd want to help run cables again. Of course I agreed and so the afternoon was spent running cables.  It was much easier this time. We were up outside of town and so the cables didn't go through conduit, they just ran across the ground.  I thought that was weird, but there were other cables up there already.  Apparently they have some heavy-duty shielding and don't require conduit.  Someone estimated we pulled about 2,000ft of fiber and copper cable and we knocked it out pretty quick.  Afterwards we took a moment for some pictures.  Here's one of me posing with the unofficial Antarctica flag (there is no official flag).  I am the epitome of smooth:  
 
-[![](http://lh6.ggpht.com/_WucH0HQjOPM/S0vm_80jrzI/AAAAAAAABIE/mvsd7JM2OLc/s320/PICT1948.jpg)](http://lh6.ggpht.com/_WucH0HQjOPM/S0vm_80jrzI/AAAAAAAABIE/mvsd7JM2OLc/s1600/PICT1948.jpg)
+
+{{< figure src="https://lh3.googleusercontent.com/U6_OiH5PwqVbuSovWIJZehkqRuIWqhNpXiFjVBJnlyVdTQ76FBcG7eeFRT5bfB3c6cQeY9CoR7Y4gazX-CiF7xChGG_XtQFnXAZgZ_xsFFE8bGfslwT0xZzgKwYskeGHB27VkSE7=w2400" title="Smooth operator" >}}

@@ -18,4 +18,4 @@ We flew over the Ross Ice Shelf and they have recently moved the airport out the
   
 We made it to Black Island and back without incident.  We were delayed 30 minutes on our return, which made for a long day, but that was all.  We were there ALL day and the work I did was less than glamorous.  I quickly realized that I was there in place of someone who knew what was going on but couldn't make the flight today.  I think he'll be going over next week, but I'm just lucky I had the opportunity so don't take that as complaining.  I took a lot of pictures but most are not of anything in particular and off kilter because I was flying in a freaking helicopter!  Either way, here is a teaser picture of an excited helicopter passenger:  
 
-[![](http://lh6.ggpht.com/_WucH0HQjOPM/SynJ4x7VR3I/AAAAAAAAA2o/BrkekPR4BS8/s320/PICT1773.jpg)](http://lh6.ggpht.com/_WucH0HQjOPM/SynJ4x7VR3I/AAAAAAAAA2o/BrkekPR4BS8/s1600/PICT1773.jpg)
+{{< figure src="https://lh3.googleusercontent.com/7nx0v-3QA4mwytk-FnWWXp6Agt4b1WZ47rOwGHQob3-m3qFiQqqrC1Ft_NDv9VhHIGOLpAcUOlBdwYDy7K9OLgbUU23Od8m27WltJrJB3glJAWcIw1i8WK3XAovAGJyLwttA-g1A=w2400" title="Helicopters are AWESOME!" >}}

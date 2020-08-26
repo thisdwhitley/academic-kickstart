@@ -16,4 +16,4 @@ I had a preliminary "line handler" meeting today.  The ice breaker will be dock
   
 Here is a picture that I took from my window at work.  You can tell by that spot on the upper right edge that I zoomed in.  If you look closely you can see a few people out on Hut Point and even see Discovery Hut in the very middle of the picture.  And of course, there's the Oden breaking ice and the Royal Society Mountain Range on Antarctica.  
 
-[![](http://lh3.ggpht.com/_WucH0HQjOPM/S0qYI94t1DI/AAAAAAAABHQ/4e0RQJ4KDK4/s320/PICT1941.jpg)](http://lh3.ggpht.com/_WucH0HQjOPM/S0qYI94t1DI/AAAAAAAABHQ/4e0RQJ4KDK4/s1600/PICT1941.jpg)
+{{< figure src="https://lh3.googleusercontent.com/R_ORI3kvxG6N8NLZXYu-VWG_3_wFCFOWq1V8rjTjj53r5nQDMnAMiSKzUU64kJCMFdpadiXf4ARUHUEIEHY0FdOd6WeSRLLueas7gR5icu_kU3f3IRzu3gsD4DWcQnKAFfpa2drm=w2400" title="Oden in the distance" >}}
