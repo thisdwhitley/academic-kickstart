@@ -16,11 +16,8 @@ It was brought to my attention that I mentioned going to a Soiree this past week
   
 I know that it is hard to believe that there were penguins in yesterday's picture (there were!) so I went to find some more wildlife today.  I've been told that with the water getting closer (or the ice going away...I'm not sure which is more accurate) that we will begin to see more wildlife.  Birds and seals and such that depend on and live in the water since that is the only place anything they can eat lives.  A lady at work told me she saw some seals from Hut Point the other day so I though I'd see if they were still there.  Of course they were still there.  Those are the laziest animals I've ever seen (and that's lazy coming from ME).  They just lay right on top of the ice for days and days.  So they were obviously still there and they were close enough that I could actually see them move some, which was a first.  There was even one in the water that I saw surface a few times, look around, catch his breath and then go back under for what seemed an eternity.  I know he was down there a long time, but what made it seem longer was the wind whipping me in the face, it was freezing.  So waiting to see him again was painful (literal and figurative).  Here they are from a distance:  
 
-[![](http://lh5.ggpht.com/_WucH0HQjOPM/Syh9OBLI-_I/AAAAAAAAA10/ts3h4pJbp_Q/s320/PICT1769.jpg)](http://lh5.ggpht.com/_WucH0HQjOPM/Syh9OBLI-_I/AAAAAAAAA10/ts3h4pJbp_Q/s1600/PICT1769.jpg)  
+{{< figure src="https://lh3.googleusercontent.com/iZavDqQTaoBFCDB0AvyP_V49rIeuBTVPI-Ijhr9L3HbX8vUlPwa6ZgGXTgyvecyiZJx9wvaaAk7cCS_jOdemLBT-a3ztmQnrVaF3Pm6QG1BT96wrb94Ys6WqITLkeo2iZIv2RXrw=w2400" title="Terds...err, umm, I mean seals" >}}
 
-And here I zoomed in on the one in the water:  
-[![](http://lh5.ggpht.com/_WucH0HQjOPM/Syh9LYdH7cI/AAAAAAAAA1s/ZuSnSN3dzhw/s320/PICT1771.jpg)](http://lh5.ggpht.com/_WucH0HQjOPM/Syh9LYdH7cI/AAAAAAAAA1s/ZuSnSN3dzhw/s1600/PICT1771.jpg)  
-
+{{< figure src="https://lh3.googleusercontent.com/tQDzlOg07aNCNfJmdF4EKtQ3AAhsb3Q3V0-MRqSjwqbU_5-YaW5kDiPS2IIUoY7UYQH-Q5eu_VSqG626IrhwNDMjV5miwyZo92W0lFt9aYewjDaCli8pCUUwp5McNxuyt6tPB0oN=w2400" title="And here I zoomed in on the one in the water" >}}
   
-
 Just like anything else I've tried to take pictures of, I could see them a lot better than the picture would lead you to believe.  Unfortunately I don't know what type of seal they are, but the popular ones around here are Weddell and Leopard, so I'd bet they were either of those although your guess is as good as mine.
